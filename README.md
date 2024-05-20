@@ -10,7 +10,8 @@ Para correrlo, baja o clona el repositorio, una vez tengas acceso situate en la 
 
 ...
 npm install
-
+...
+Luego, 
 ```
 npm run start
 ```
